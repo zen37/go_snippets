@@ -1,0 +1,10 @@
+sort Iteration n=10 first=2081 last=98081 # 1571ns
+sort.Ints n=10 first=2081 last=98081 # 7308ns
+sort Iteration n=100 first=2002 last=99843 # 4423ns
+sort.Ints n=100 first=2002 last=99843 # 15330ns
+sort Iteration n=1000 first=30 last=99867 # 233676ns
+sort.Ints n=1000 first=30 last=99867 # 134287ns
+sort Iteration n=10000 first=21 last=99996 # 28314056ns
+sort.Ints n=10000 first=21 last=99996 # 1656636ns
+sort.Ints n=100000 first=0 last=99998 # 17912945ns
+sort Iteration n=100000 first=0 last=99998 # 2309204935ns

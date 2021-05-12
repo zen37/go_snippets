@@ -1,0 +1,28 @@
+Recursion # 88 # 267.033µs
+Iteration # 88 # 295.636µs
+Recursion # 111 # 338.579µs
+Iteration # 111 # 333.846µs
+Iteration # 111 # 3.701528ms
+
+
+Iteration # 11 # 52.42µs
+Recursion # 11 # 45.49µs
+Iteration # 111 # 2.734366ms
+Recursion # 111 # 330.914µs
+Iteration # 111 # 450.809µs
+Iteration # 88 # 266.297µs
+Iteration # 50 # 193.465µs
+Recursion # 111 # 380.167µs
+Recursion # 88 # 281.056µs
+Recursion # 50 # 422.018µs
+Recursion # 111 # 327.594µs
+Recursion # 88 # 258.39µs
+Recursion # 50 # 135.939µs
+Iteration # 111 # 355.859µs
+Iteration # 88 # 545.04µs
+Iteration # 50 # 148.863µs
+Iteration # 88 # 330.493µs
+Recursion # 22 # 96.63µs
+Iteration # 22 # 82.243µs
+Recursion # 111 # 611.245µs
+Iteration # 111 # 369.746µs
